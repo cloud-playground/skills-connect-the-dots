@@ -49,7 +49,7 @@ Check out these resources to learn more or get involved:
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct and license link.
 -->
 
 ---
